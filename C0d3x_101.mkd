@@ -1,0 +1,11 @@
+## Learning how to "Jailbreak" an LLM
+
+**Premable**
+
+We all know what's jailbreaking. ***but what about LLMs?*** (aka Large Language Model)
+
+Jailbreaking LLMs is much easier than what you might think, in fact. most of the **Jailbreaks** (more correctly,  Prompt injections) only uses **natural language**. Which puts the learning bar very low. and that's why Br3aks_C0d3x is here. To truly make that low bar accessible!
+
+A lot of people decide to learn prompt injection using dedicated platforms (e.g. hackaprompt). but personally, I believe that the best place to learn isn't in a playground. it's in the battlefield...
+
+That's how I learned. and that's how you will learn here. at "Br3aks_C0d3x". in the battlefield. and 
