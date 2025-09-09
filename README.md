@@ -6,4 +6,4 @@ This repo is where I’m collecting everything I’ve learned about exploring an
 
  ## How to start?
 
- All the knowledge here is documented. so instead of seeing a raw article. I'd be explaining step by step what to do. and how to do it! plus everything is structured. so you know how to start!
+ All the knowledge here is documented. so instead of seeing a raw article. I'd be explaining step by step what to do. and how to do it! plus everything is structured. so you know where to start!
