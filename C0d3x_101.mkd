@@ -10,4 +10,4 @@ That's how I learned. and that's how you will learn here. at "Br3aks_C0d3x". in 
 
 But the battlefield rules are different, Instead of asking you to build a weapon (=jailbreak) step by step, you'll be *given* a weapon and you'll **learn how it works**, and **how to produce it**, and finally. Build your ***own***
 
-So let's start your journey! and we will begin by your first battlefield:[Mistral] (level_1:mistral.mkd)
+So let's start your journey! and we will begin by your first battlefield: [Mistral](level_1/mistral.mkd)
